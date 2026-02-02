@@ -1,6 +1,4 @@
-LMU BSAN 6070 – Machine Learning Assignments
-
-Jerry Hsu
+LMU BSAN 6070 – Machine Learning Assignments /Jerry Hsu
 
 Assignment Overview
 CA01 – House Price Prediction
