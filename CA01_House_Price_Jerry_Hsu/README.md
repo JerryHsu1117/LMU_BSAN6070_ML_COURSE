@@ -51,12 +51,14 @@ No special setup or paid software is required.
 
 ---
 
-## 5. Dataset Information
+## 5. Dataset Overview
 - **Dataset name:** House Prices – Training Dataset  
 - **File name:** `house-price-train.csv`  
-- **Source:** Provided by the instructor (originally based on the Kaggle House Prices dataset) link: https://github.com/ArinB/MSBA-CA-Data/raw/main/CA01/house-price-train.csv
+- **Source:** Provided by the instructor (originally based on the Kaggle House Prices dataset)
+- Dataset Link: https://github.com/ArinB/MSBA-CA-Data/blob/main/CA01/house-price-train.csv
+- Dataset Description Link: https://github.com/ArinB/MSBA-CA-Data/blob/main/CA01/data_description.txt
 
-
+After reviewing the dataset and the data description, each row represents a single house sale and each column describes a characteristic of the house or the sale.
 
 The main target column: "SalePrice"
 
@@ -64,9 +66,7 @@ It represents the house sale price and also represents y for the machine learnin
 
 Important feature columns: "OverallQual", "GrLivArea", "TotalBsmtSF", "GarageArea".
 
-Because these variables describe key aspects of house quality and size, which are commonly strong drivers of house prices. Higher overall quality, larger living area, more basement space, and larger garage area generally 
-
-indicate higher property value and show clear relationships with the target variable SalePrice.
+Because these variables describe key aspects of house quality and size, which are commonly strong drivers of house prices. Higher overall quality, larger living area, more basement space, and larger garage area generally indicate higher property value and show clear relationships with the target variable SalePrice.
 
 Other feature columns: location-related, structural, condition, and sale-related variables that provide additional information about the property.
 
