@@ -54,7 +54,7 @@ No special setup or paid software is required.
 ## 5. Dataset Information
 - **Dataset name:** House Prices – Training Dataset  
 - **File name:** `house-price-train.csv`  
-- **Source:** Provided by the instructor (originally based on the Kaggle House Prices dataset)
+- **Source:** Provided by the instructor (originally based on the Kaggle House Prices dataset) link: https://github.com/ArinB/MSBA-CA-Data/raw/main/CA01/house-price-train.csv
 
 
 
