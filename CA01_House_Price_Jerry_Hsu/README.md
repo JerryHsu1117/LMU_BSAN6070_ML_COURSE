@@ -103,7 +103,7 @@ All analysis was completed independently for this assignment.
 ## 9. Notes for Peer Reviewers
 This README is written to be clear, readable, and easy to understand for both technical and non-technical readers.  
 Feedback on clarity and organization is appreciated.
-My GitHub link:
+My GitHub link: https://github.com/JerryHsu1117/LMU_BSAN6070_ML_COURSE/tree/main/CA01_House_Price_Jerry_Hsu
 
 
 
