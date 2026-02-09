@@ -103,4 +103,4 @@ All work was completed independently for this assignment.
 ## 10. Notes for Peer Reviewers
 This README is written to be **clear, concise, and easy to understand**, including for non-technical readers.  
 Feedback on clarity and organization is appreciated. 
-Link:https://github.com/JerryHsu1117/LMU_BSAN6070_ML_COURSE/tree/main/CA02%3A%20Spam%20eMail%20Detection%20using%20Naive%20Bayes%20Classification%20Algorithm
+Link:https:https://github.com/JerryHsu1117/LMU_BSAN6070_ML_COURSE/tree/main/CA02%3A%20Spam%20eMail%20Detection%20using%20Naive%20Bayes%20Classification%20Algorithm
