@@ -4,7 +4,7 @@
 
 This project applies a Decision Tree classifier to predict whether an individual earns more than $50K per year using Census demographic and employment features.
 
-GitHub Link: 
+GitHub Link: https://github.com/JerryHsu1117/LMU_BSAN6070_ML_COURSE/tree/main/CA03%20-%20Decision%20Tree%20Algorithm
 
 The objective is to:
 
