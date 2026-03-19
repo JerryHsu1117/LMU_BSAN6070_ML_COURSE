@@ -1,10 +1,7 @@
 # CA05 - kNN Based Movie Recommender Engine
 
 ## Author
-- **Name:** Jerry Nicholson Hsu
-- **Course:** BSAN 6070 - Machine Learning
-- **Institution:** Loyola Marymount University
-- **Semester:** Spring 2026
+- **Name:** Jerry and Nicholson 
 
 ## Overview
 This project builds a Movie Recommender System using the k-Nearest Neighbors (kNN) algorithm. Given a query movie, the system identifies the 5 most similar movies based on genre features and IMDB ratings.
